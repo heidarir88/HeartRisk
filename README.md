@@ -20,3 +20,5 @@ its efficacy in predicting heart disease.
 Key Words: Neural Networks; Heart Disease Classification; Multi-Layer
 Perceptron (MLP); Feature Selection; Information Gain; SMOTE
 Algorithm.
+
+[Heart Risk WebApp](https://heartrisk.shinyapps.io/webapp/)
